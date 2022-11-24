@@ -1,0 +1,23 @@
+{
+  "name": "chattifi",
+  "version": "1.0.0",
+  "description": "Suomalainen avoimen lähdekoodin keskustelu palvelu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatti-fi/chatti.fi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chatti-fi/chatti.fi/issues"
+  },
+  "homepage": "https://github.com/chatti-fi/chatti.fi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

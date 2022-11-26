@@ -1,9 +1,9 @@
-# chatti.fi
+# turvachatti.fi
 Suomalainen avoimen lähdekoodin keskustelu palvelu.
 
 [English](README-EN.md)
 ## Käyttäminen
 ### Nettisivun kautta
-chatti.fi palvelu on saatavilla osoitteessa [chattifi.repl.co](http://chattifi.repl.co)
+turvachatti.fi palvelu on saatavilla osoitteessa [turvachattifi.repl.co](http://turvachattifi.repl.co)
 ### Tietokone sovelluksena
 Tulossa myöhemmin
